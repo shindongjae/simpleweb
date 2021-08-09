@@ -1,0 +1,58 @@
+05-Aug-2021 23:23:05.310 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 서버 버전 이름:    Apache Tomcat/8.5.69
+05-Aug-2021 23:23:05.317 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 빌드 시각:  Jun 30 2021 18:00:00 UTC
+05-Aug-2021 23:23:05.317 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log Server 버전 번호:  8.5.69.0
+05-Aug-2021 23:23:05.317 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 이름:     Windows 10
+05-Aug-2021 23:23:05.317 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 운영체제 버전:     10.0
+05-Aug-2021 23:23:05.318 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 아키텍처:          x86
+05-Aug-2021 23:23:05.318 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 자바 홈:           C:\Program Files (x86)\Java\jre1.8.0_301
+05-Aug-2021 23:23:05.318 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 버전:          1.8.0_301-b09
+05-Aug-2021 23:23:05.319 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 벤더:          Oracle Corporation
+05-Aug-2021 23:23:05.319 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     D:\vscode\web programming\apache-tomcat-8.5.69
+05-Aug-2021 23:23:05.319 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     D:\vscode\web programming\apache-tomcat-8.5.69
+05-Aug-2021 23:23:05.320 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.config.file=D:\vscode\web programming\apache-tomcat-8.5.69\conf\logging.properties
+05-Aug-2021 23:23:05.320 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Aug-2021 23:23:05.321 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djdk.tls.ephemeralDHKeySize=2048
+05-Aug-2021 23:23:05.322 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Aug-2021 23:23:05.322 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dignore.endorsed.dirs=
+05-Aug-2021 23:23:05.323 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.base=D:\vscode\web programming\apache-tomcat-8.5.69
+05-Aug-2021 23:23:05.324 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Dcatalina.home=D:\vscode\web programming\apache-tomcat-8.5.69
+05-Aug-2021 23:23:05.325 정보 [main] org.apache.catalina.startup.VersionLoggerListener.log 명령 행 아규먼트:  -Djava.io.tmpdir=D:\vscode\web programming\apache-tomcat-8.5.69\temp
+05-Aug-2021 23:23:05.325 정보 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 프로덕션 환경들에서 최적의 성능을 제공하는, APR 기반 Apache Tomcat Native 라이브러리가, 다음 java.library.path에서 발견되지 않습니다: [C:\Program Files (x86)\Java\jre1.8.0_301\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\MinGW\bin;C:\Program Files\AdoptOpenJDK\jdk-11.0.11.9-hotspot;C:\Program Files\Java\jdk-16.0.2\bin;C:\Users\shindongjae\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\shindongjae\AppData\Local\Programs\Python\Python39\;C:\Users\shindongjae\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\shindongjae\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shindongjae\AppData\Local\afreeca;.]
+05-Aug-2021 23:23:05.457 정보 [main] org.apache.coyote.AbstractProtocol.init 프로토콜 핸들러 ["http-nio-8080"]을(를) 초기화합니다.
+05-Aug-2021 23:23:05.924 정보 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+05-Aug-2021 23:23:05.936 정보 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1052 ms
+05-Aug-2021 23:23:06.010 정보 [main] org.apache.catalina.core.StandardService.startInternal 서비스 [Catalina]을(를) 시작합니다.
+05-Aug-2021 23:23:06.013 정보 [main] org.apache.catalina.core.StandardEngine.startInternal 서버 엔진을 시작합니다: [Apache Tomcat/8.5.69]
+05-Aug-2021 23:23:06.023 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [D:\vscode\web programming\apache-tomcat-8.5.69\webapps\docs]을(를) 배치합니다.
+05-Aug-2021 23:23:06.286 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [D:\vscode\web programming\apache-tomcat-8.5.69\webapps\docs]에 대한 배치가 [263] 밀리초에 완료되었습니다.
+05-Aug-2021 23:23:06.287 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [D:\vscode\web programming\apache-tomcat-8.5.69\webapps\examples]을(를) 배치합니다.
+05-Aug-2021 23:23:06.572 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [D:\vscode\web programming\apache-tomcat-8.5.69\webapps\examples]에 대한 배치가 [285] 밀리초에 완료되었습니다.
+05-Aug-2021 23:23:06.574 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [D:\vscode\web programming\apache-tomcat-8.5.69\webapps\host-manager]을(를) 배치합니다.
+05-Aug-2021 23:23:06.596 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [D:\vscode\web programming\apache-tomcat-8.5.69\webapps\host-manager]에 대한 배치가 [22] 밀리초에 완료되었습니다.
+05-Aug-2021 23:23:06.597 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [D:\vscode\web programming\apache-tomcat-8.5.69\webapps\manager]을(를) 배치합니다.
+05-Aug-2021 23:23:06.625 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [D:\vscode\web programming\apache-tomcat-8.5.69\webapps\manager]에 대한 배치가 [28] 밀리초에 완료되었습니다.
+05-Aug-2021 23:23:06.627 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [D:\vscode\web programming\apache-tomcat-8.5.69\webapps\ROOT]을(를) 배치합니다.
+05-Aug-2021 23:23:06.643 정보 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 웹 애플리케이션 디렉토리 [D:\vscode\web programming\apache-tomcat-8.5.69\webapps\ROOT]에 대한 배치가 [16] 밀리초에 완료되었습니다.
+05-Aug-2021 23:23:06.646 정보 [main] org.apache.coyote.AbstractProtocol.start 프로토콜 핸들러 ["http-nio-8080"]을(를) 시작합니다.
+05-Aug-2021 23:23:06.658 정보 [main] org.apache.catalina.startup.Catalina.start Server startup in 720 ms
+05-Aug-2021 23:27:02.423 심각 [main] org.apache.catalina.startup.Catalina.stopServer Could not contact [localhost:8005]. Tomcat may not be running.
+05-Aug-2021 23:27:09.871 심각 [main] org.apache.catalina.startup.Catalina.stopServer Catalina.stop: 
+	java.net.ConnectException: Connection refused: connect
+		at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+		at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+		at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+		at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+		at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+		at java.net.PlainSocketImpl.connect(Unknown Source)
+		at java.net.SocksSocketImpl.connect(Unknown Source)
+		at java.net.Socket.connect(Unknown Source)
+		at java.net.Socket.connect(Unknown Source)
+		at java.net.Socket.<init>(Unknown Source)
+		at java.net.Socket.<init>(Unknown Source)
+		at org.apache.catalina.startup.Catalina.stopServer(Catalina.java:504)
+		at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+		at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+		at java.lang.reflect.Method.invoke(Unknown Source)
+		at org.apache.catalina.startup.Bootstrap.stopServer(Bootstrap.java:391)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:481)

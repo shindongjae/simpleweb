@@ -1,1 +1,3 @@
-alert(3)
+addEventListener("click",alert(3));
+
+alert(3);

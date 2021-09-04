@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "D:\\vscode"
+		},
+		{
+			"path": "..\\..\\Desktop\\guestbook"
+		}
+	],
+	"settings": {
+		"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+		"maven.view": "hierarchical",
+		"liveServer.settings.multiRootWorkspaceName": "guestbook"
+	}
+}
